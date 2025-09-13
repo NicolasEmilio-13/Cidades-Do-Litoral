@@ -1,0 +1,10 @@
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
+Console.WriteLine("Perúibe");
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("Mongagua");
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("Praia Grande");
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("Santos");
+Console.ResetColor();
